@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello world</string>
+    <string name="app_dev_group">This is the first application from Group 2:\n ◦ Ieva Lauga\n ◦ Kristaps Josts\n ◦ Lauris Miķelsons\nAnd the application was developed by Lauris Miķelsons.</string>
+</resources>
