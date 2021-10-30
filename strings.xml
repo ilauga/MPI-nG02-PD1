@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="description">This is the first application from Group nG02: \n</string>
+    <string name="author1">Ieva Lauga</string>
+    <string name="author2">Lauris Miķelsons</string>
+    <string name="author3">Kristaps Josts</string>
+    <string name="about">And the application was developed by \n Ieva Lauga</string>
+</resources>
