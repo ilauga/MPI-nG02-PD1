@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Pakalpojumu Portāls</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="titleWelcome">Sveicināti!</string>
+    <string name="btnToSearch">Meklēt</string>
+    <string name="btnToPakSarakstu">Apskatīt pakalpojumus</string>
+    <string name="btnLogin">Ienākt</string>
+    <string name="btnRegister">Reģistrēties</string>
+    <string name="titleIenakt">Pieteikšanās</string>
+    <string name="titleRegister">Reģistrēšanās</string>
+    <string name="titleMeklet">Meklēšana</string>
+    <string name="titleServiceInfo">Pakalpojuma informācija</string>
+    <string name="titleServicesList">Pakalpojumi</string>
+    <string name="titleServiceTypes">Kategorijas</string>
+    <string name="titleSpecialistHome">Speciālists: Sākums</string>
+    <string name="titleUserProfile">Mans Profils</string>
+    <string name="titleSpecialistLogin">Pieteikšanās</string>
+    <string name="titleSpecialistsList">Speciālisti</string>
+    <string name="titleUserHome">Mani pieteiktie pakalpojumi</string>
+    <string name="btnSpecPakalpojumi">Mani pakalpojumi</string>
+    <string name="btnToUserFrofile">Mans profils</string>
+    <string name="rbtnSpecialists">Speciālists</string>
+    <string name="rbtnKlients">Klients</string>
+    <string-array name="services">
+        <item>Ģimenes arsts 1</item>
+        <item>Ģimenes arsts 2</item>
+        <item>Fizioterapeits 2</item>
+        <item>Privātstundas angļu valodā 1</item>
+        <item>Privātais treneris 1</item>
+        <item>Elektriķis 1</item>
+        <item>Elektriķis 2</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
